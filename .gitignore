@@ -1,0 +1,15 @@
+# Ignorar ambiente virtual
+venv/
+
+# Ignorar arquivos de cache
+__pycache__/
+*.pyc
+
+# Ignorar a pasta de uploads
+uploads/
+
+# Ignorar arquivos do macOS
+.DS_Store
+
+# Ignorar arquivos do Git
+.git/
